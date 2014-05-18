@@ -6,7 +6,7 @@ package documentacionTrabajo;
  * Al final, se vacía la pila con un bucle.</pre>
  * 
  * @author Muñoz Godenir Christopher
- * @version 1.0
+ * @version 1.1
  */
 
 public class TestPila {
